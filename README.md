@@ -1,0 +1,1 @@
+This python notebook comprises of the code that scrapes data for each and every company present in the excel file provided by the user and stores it in data file. Then, this data is provided to LLM using Langchain which is then used to retreive necessary information.
